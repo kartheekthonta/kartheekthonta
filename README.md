@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋 I'm Kartheek Thonta
 
-<!--
-**kartheekthonta/kartheekthonta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frontend Developer
 
-Here are some ideas to get you started:
+💻 React.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ TypeScript
+
+🌍 ArcGIS JavaScript API
+
+🎯 JavaScript
+
+🎨 HTML5 & CSS3
+
+🔄 Redux
+
+📡 REST APIs
+
+## About Me
+
+- 2.5+ years of experience in Frontend Development
+- Building Enterprise GIS Applications
+- Developing ArcGIS Experience Builder Widgets
+- Passionate about clean UI and performance optimization
+
+## Tech Stack
+
+React.js | TypeScript | JavaScript | HTML | CSS | ArcGIS | Git | REST APIs
+
+## Contact
+
+LinkedIn:
+https://www.linkedin.com/in/kartheek-tonta-40271a270/
+
+Email:
+Karthikthonta05@gmail.com
